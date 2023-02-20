@@ -1,7 +1,7 @@
 {
-  "name": "opensea-v2-youtube",
-  "version": "0.1.0",
-  "private": true,
+  "name": "MDearth.io-OpenSea-Clone",
+  "version": "0.1.1",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
